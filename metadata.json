@@ -1,0 +1,6 @@
+{
+  "name": "BioAkademiya — Biologiya Kursi",
+  "description": "DTM va Milliy sertifikatga tayyorlovchi zamonaviy biologiya kursi: o'quv dasturi, ustoz metodikasi, o'quvchilar natijalari va Telegram kanal orqali ro'yxatdan o'tish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
