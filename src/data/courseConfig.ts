@@ -63,7 +63,7 @@ export const LIVE_LESSON_CONFIG: LiveLessonConfig = {
   benefits: [
     {
       number: '01',
-      boldPart: '75 ball yozma ish',
+      boldPart: 'Yozma ishdan 75 ball olish',
       restPart: 'sirlari',
     },
     {
